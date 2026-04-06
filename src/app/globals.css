@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700;900&family=Work+Sans:wght@300;400;500;600&display=swap');
-
 :root {
   --green: #00af51;
   --green-dim: #007a38;
